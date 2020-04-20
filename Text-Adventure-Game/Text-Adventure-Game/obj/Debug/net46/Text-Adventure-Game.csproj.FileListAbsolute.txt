@@ -1,0 +1,8 @@
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\net46\Text-Adventure-Game.exe.config
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\net46\Text-Adventure-Game.exe
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\net46\Text-Adventure-Game.pdb
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\net46\Text-Adventure-Game.csprojAssemblyReference.cache
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\net46\Text-Adventure-Game.AssemblyInfoInputs.cache
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\net46\Text-Adventure-Game.AssemblyInfo.cs
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\net46\Text-Adventure-Game.exe
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\net46\Text-Adventure-Game.pdb

@@ -1,0 +1,11 @@
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.exe
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.deps.json
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.runtimeconfig.json
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.runtimeconfig.dev.json
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.dll
+E:\Text-Adventure-Game\Text-Adventure-Game\bin\Debug\netcoreapp3.1\Text-Adventure-Game.pdb
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\netcoreapp3.1\Text-Adventure-Game.csprojAssemblyReference.cache
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\netcoreapp3.1\Text-Adventure-Game.AssemblyInfoInputs.cache
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\netcoreapp3.1\Text-Adventure-Game.AssemblyInfo.cs
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\netcoreapp3.1\Text-Adventure-Game.dll
+E:\Text-Adventure-Game\Text-Adventure-Game\obj\Debug\netcoreapp3.1\Text-Adventure-Game.pdb
